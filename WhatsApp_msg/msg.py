@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg("+919236766977","HAPPY BIRTHDAY! 🎂\nHave a great day... ❤️",17,25)
+pywhatkit.sendwhatmsg("+91XXXXXXXXXX","HAPPY BIRTHDAY! 🎂\nHave a great day... ❤️",17,25)
